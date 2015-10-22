@@ -22,4 +22,4 @@ The following steps will get you connected to the Aincrad mumble server.
   server with.
 ![Registering](http://i.imgur.com/keD62.png)
 4. Enjoy the server! Please direct all reports, feature requests, or general
-questions to [this form]({{site.url}}{{site.baseurl}}feedback.html).
+questions to [this form]({{site.url}}{{site.baseurl}}/feedback.html).
